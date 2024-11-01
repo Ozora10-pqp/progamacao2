@@ -48,7 +48,8 @@ body {
 }
 
 .cartao__conteudo h3{
-    background-color: azure;
+    background-color: black;
+    color: aliceblue;
     padding: 0.5rem;
     position: absolute;
     margin: 0.6rem;
