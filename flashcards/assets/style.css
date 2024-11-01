@@ -33,7 +33,6 @@ body {
     padding: o.7rem;
 }
 
-
 .cartao {
     margin: 1rem 1rem;
     background-color: white;
@@ -48,7 +47,7 @@ body {
     height: 100%;
 }
 
-.cartao__conteudo h3 {
+.cartao__conteudo h3{
     background-color: azure;
     padding: 0.5rem;
     position: absolute;
