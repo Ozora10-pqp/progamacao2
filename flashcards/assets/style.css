@@ -21,10 +21,19 @@ body {
 }
 
 
-
+.cartao {
+    …}
 #container {
     display: flex;
 }
+
+.cartao__conteudo h3 {
+    background-color: red;
+    text-align: left;
+    padding: o.7rem;
+}
+
+
 
 
 .cartao {
